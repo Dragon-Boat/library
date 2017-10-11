@@ -20,9 +20,9 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * Created by @author hzzhoulong
+ * Created by @author zhoulong
  * on 2017-9-28.
- * # Copyright 2017 netease. All rights reserved.
+ * # Copyright 2017 . All rights reserved.
  */
 
 public class MKItemDecoration extends RecyclerView.ItemDecoration {

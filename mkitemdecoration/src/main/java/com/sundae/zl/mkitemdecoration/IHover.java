@@ -2,9 +2,9 @@ package com.sundae.zl.mkitemdecoration;
 
 /**
  * 分组悬停接口
- * Created by @author hzzhoulong
+ * Created by @author zhoulong
  * on 2017-10-9.
- * # Copyright 2017 netease. All rights reserved.
+ * # Copyright 2017 . All rights reserved.
  */
 
 public interface IHover {

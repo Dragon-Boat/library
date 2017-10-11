@@ -5,9 +5,9 @@ import android.support.annotation.LayoutRes;
 
 import java.util.List;
 /**
- * Created by @author hzzhoulong
+ * Created by @author zhoulong
  * on 2017-10-10.
- * # Copyright 2017 netease. All rights reserved.
+ * # Copyright 2017 . All rights reserved.
  */
 
 public abstract class AbstractViewModel<T> {
